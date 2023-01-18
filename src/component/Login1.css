@@ -1,0 +1,38 @@
+.img{
+    /* background-image: url("backImg.png"); */
+    
+    min-height: 100vh;
+    
+}
+
+.frm{
+    padding: 60px;
+}
+
+.inpt{
+    display: none;
+}
+
+.body{
+    margin: 0; 
+    height: 100%;
+    overflow: hidden;
+    background-image: url("/public/login_bg.jpg");
+    height: auto;
+    min-height: 100%;
+    min-width: 100%;
+    position: fixed;
+}
+
+.com{
+    border: none;
+    text-align: left;
+}
+
+.form1{
+    border-radius: 10px;
+    background-color: #FFFF;
+    box-shadow: 10px 5px 5px#FFFF;;
+}
+
+

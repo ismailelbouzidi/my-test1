@@ -1,0 +1,17 @@
+.card:hover{
+    background-color: rgb(230, 241, 255);
+}
+
+.card{
+    border: none;
+    box-shadow: 10px 5px 5px rgb(245, 245, 245);
+}
+
+.bodyT{
+    margin: 0; 
+    height: 100%;
+    overflow: hidden;
+    min-height: 100%;
+    min-width: 100%;
+    position: relative;
+}
